@@ -1,5 +1,3 @@
-https://github.com/udacity/cd0037-API-Development-and-Documentation-exercises/blob/master/6_Final_Review/README.md
-
 
 # Project - Trivia API
 ## Introduction 
